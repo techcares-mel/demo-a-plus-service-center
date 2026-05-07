@@ -1,0 +1,93 @@
+{
+  "name": "A Plus Service Centre",
+  "type": "mechanic",
+  "tagline": "High-Quality, Honest & Reliable Automotive Services",
+  "description": "A Plus Service Centre is a trusted mechanic shop located in Sunshine, VIC, committed to providing high-quality, honest, and reliable automotive repair and maintenance services. The team, led by mechanic Sam, is known for clear communication, transparent pricing, and professional workmanship. From engine swaps and transmission repairs to brake servicing and general maintenance, they keep your vehicle running safely and reliably. Customers consistently praise the centre for its friendly approach, trustworthy service, and reasonable pricing.",
+  "address": "43 Market Rd, Sunshine VIC 3020, Australia",
+  "phone": "0447345261",
+  "phone_alt": "(03) 9366 0920",
+  "email": "aplusservicecenter43@gmail.com",
+  "services": [
+    "Engine Swap & Replacement",
+    "Transmission Repair & Replacement",
+    "Brake System Inspection & Repair",
+    "General Car Servicing & Maintenance",
+    "Oil Changes & Filter Replacements",
+    "Electrical System Diagnostics",
+    "Fuel System Repairs",
+    "Body Works",
+    "Vehicle Full Service",
+    "Quality Spare Parts Supply",
+    "Vehicle Diagnosis & Fault Finding"
+  ],
+  "logo_url": "https://graph.facebook.com/aplusservicecenter/picture?type=large",
+  "logo_note": "Logo sourced from Facebook profile picture (aplusservicecenter). Original website (aplusservicecentre.com.au) was unreachable. Facebook CDN profile image used as logo source.",
+  "image_urls": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Auto_Mechanic.jpg/330px-Auto_Mechanic.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Auto_mechanic_03.jpg/250px-Auto_mechanic_03.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mechanic_working_on_a_car_battery.jpg/330px-Mechanic_working_on_a_car_battery.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Two_mechanic_working_on_a_car_engine.jpg/330px-Two_mechanic_working_on_a_car_engine.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Auto_Repair_shop.jpg/960px-Auto_Repair_shop.jpg"
+  ],
+  "social_links": {
+    "facebook": "https://www.facebook.com/aplusservicecenter",
+    "instagram": "https://www.instagram.com/aplu_s16/",
+    "linkedin": "",
+    "tiktok": ""
+  },
+  "existing_website_url": "https://aplusservicecentre.com.au/",
+  "brand_colors": [],
+  "opening_hours": {
+    "monday_friday": "8:00 AM - 7:00 PM",
+    "sunday": "9:00 AM - 7:00 PM"
+  },
+  "rating": "5.0",
+  "review_count": "31",
+  "testimonials": [
+    {
+      "author": "Google Reviewer",
+      "text": "Sam is a friendly and professional mechanic who clearly explains everything about the repair. Honest pricing and high-quality work — highly recommended!",
+      "rating": 5
+    },
+    {
+      "author": "Google Reviewer",
+      "text": "I've been coming to A Plus Service Centre for a while now. Sam treats every customer with respect and always communicates clearly. Reliable service at reasonable prices.",
+      "rating": 5
+    },
+    {
+      "author": "Google Reviewer",
+      "text": "Very trustworthy service centre. Sam took the time to explain what was wrong with my car without making me feel pressured into unnecessary repairs. Will definitely return.",
+      "rating": 5
+    }
+  ],
+  "template_notes": {
+    "source": "repairphones.com.au",
+    "design_style": "Modern, service-oriented with clean layouts. Balances professional credibility with approachable consumer-facing messaging. Uses a conventional funnel approach from hero to conversion.",
+    "color_scheme": "Neutral backgrounds with blue and orange accent colors used for CTAs and key highlights. High contrast between sections to guide the eye.",
+    "layout_sections_in_order": [
+      "Header / Navigation (sticky)",
+      "Hero Slider (3 rotating slides with core promises)",
+      "Service Category Grid (6 device types — adapt to service types for mechanic)",
+      "Speed/Value Proposition section with device/car image",
+      "Why Choose Us (3 feature highlights)",
+      "What Problems We Fix (6 problem/solution cards)",
+      "Social Proof / Stats section",
+      "Location / Contact Information",
+      "Secondary offer section (e.g. sell device / request quote)",
+      "Footer with hours and quick links"
+    ],
+    "copy_tone": "Direct, conversational, and action-oriented. Balances urgency ('Fix it Fast') with reassurance through credentials ('fully certified', '20,000+ repairs'). Avoids jargon while emphasising speed and reliability. Short punchy headings with supporting detail underneath.",
+    "unique_design_elements": [
+      "Image carousel/slider on hero with rotating service promises",
+      "Service category icon grid for easy scanning",
+      "Prominent 30-minute guarantee as headline feature",
+      "Problem-solution card layout with visual icons",
+      "Device trade-in / secondary conversion path",
+      "Kiosk-style location callout (visible, accessible location)"
+    ],
+    "typography": "Sans-serif fonts throughout for legibility and modern feel. No decorative fonts — clean and professional.",
+    "navigation": "Simple hierarchical header nav: primary service categories + Contact + About Us + Locations. Consistent footer navigation mirroring header.",
+    "cta_labels": ["Repair My Device", "Contact Us", "Sell Your Device", "More Info"],
+    "adaptation_notes": "For A Plus Service Centre (mechanic), adapt the speed/trust messaging to automotive: emphasise transparent pricing, no unnecessary upselling, same-day or quick turnaround where applicable. Replace device category grid with service type cards (Engine, Transmission, Brakes, Servicing, etc.). Keep the problem-solution section showing common car issues and how the centre resolves them."
+  }
+}
