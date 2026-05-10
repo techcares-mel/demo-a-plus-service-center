@@ -284,7 +284,7 @@ h3 {
 }
 
 .nav-logo img {
-  height: 48px;
+  height: 96px;
   width: auto;
   display: block;
 }
@@ -416,7 +416,7 @@ h3 {
   position: relative;
   background:
     linear-gradient(rgba(0, 0, 0, 0.62), rgba(0, 0, 0, 0.62)),
-    url('images/image1.jpg') center / cover no-repeat;
+    url('images/hero.jpg') center / cover no-repeat;
 }
 
 .hero-container {
@@ -1031,7 +1031,7 @@ a.contact-value:hover {
 }
 
 .footer-brand .footer-logo {
-  height: 56px;
+  height: 112px;
   width: auto;
   margin-bottom: 1rem;
 }
